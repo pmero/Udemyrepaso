@@ -11,4 +11,4 @@ Este se actualizo desde hithub
  prueba comando git pull corregido pull
 
  
-## estos cambios son nuevos
+## estos cambios son nuevos desde github
